@@ -10,7 +10,7 @@ Authors: David Mutchler, Valerie Galluzzi, Mark Hays, Amanda Stouder,
 
 def main():
     """ Calls the   TEST   functions in this module. """
-    #run_test_sum_powers()
+    run_test_sum_powers()
     run_test_sum_powers_in_range()
 
 
