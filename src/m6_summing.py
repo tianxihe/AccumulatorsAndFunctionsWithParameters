@@ -6,7 +6,7 @@ in its simplest classic forms:
 Authors: David Mutchler, Valerie Galluzzi, Mark Hays, Amanda Stouder,
          their colleagues and Tianxi He.
 """  # DONE: 1. PUT YOUR NAME IN THE ABOVE LINE.
-import math
+
 from math import sqrt,cos
 
 def main():
@@ -77,7 +77,7 @@ def sum_cosines(n):
 def run_test_sum_square_roots():
     """ Tests the   sum_square_roots   function. """
     # ------------------------------------------------------------------
-    # TODO: 4. Implement this function.
+    # DONE: 4. Implement this function.
     #   It TESTS the  sum_square_roots  function defined below.
     #   Include at least **   3   ** tests.
     #
